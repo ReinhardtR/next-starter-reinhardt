@@ -21,6 +21,10 @@ yarn create next-app --example https://github.com/ReinhardtR/next-starter-reinha
 yarn
 ```
 
+### 3. Setup the Database
+
+The Prisma config in this repository is setup to use PlanetScale, but any database can be used.
+
 ### 3. Set the enviroment variables in **.env** and **.env.local**.
 
 ### 4. Generate the Prisma client.
