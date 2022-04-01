@@ -2,15 +2,10 @@
 
 - Next.js
 - TypeScript
-
 - tRPC
-  -- React Query
-  -- zod
 - Prisma
 - PlanetScale
-
-- Tailwind CSS
-  -- Prettier to automatically sort classes
+- Tailwind CSS (with Prettier plugin)
 
 ## Getting Started
 
