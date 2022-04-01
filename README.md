@@ -17,10 +17,8 @@
 Create a Next.js app using this starter repository.
 
 ```bash
-yarn
+yarn create next-app --example https://github.com/ReinhardtR/next-starter-reinhardt
 ```
-
-yarn create next-app --example
 
 Install all dependicies.
 
