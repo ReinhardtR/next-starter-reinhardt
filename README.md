@@ -25,21 +25,21 @@ yarn
 
 The Prisma config in this repository is setup to use PlanetScale, but any database can be used.
 
-### 3. Set the enviroment variables in **.env** and **.env.local**.
+### 4. Set the enviroment variables in **.env** and **.env.local**.
 
-### 4. Generate the Prisma client.
+### 5. Generate the Prisma client.
 
 ```bash
 yarn prisma generate
 ```
 
-### 5. Run a local development server.
+### 6. Run a local development server.
 
 ```bash
 yarn dev
 ```
 
-### 6. Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+### 7. Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
 ## Deploy on Vercel
 
