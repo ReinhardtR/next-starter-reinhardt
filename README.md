@@ -3,8 +3,7 @@
 - Next.js
 - TypeScript
 - tRPC
-- Prisma
-- PlanetScale
+- Prisma (Configured for PlanetScale)
 - Tailwind CSS (with Prettier plugin)
 
 ## Getting Started
